@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miirochristopher
 - 👀 I’m interested in Software Development. 
-- 🌱 I’m currently learning Microservice deployment with Kubernetes
+- 🌱 I’m currently learning Microservice Deployment with Kubernetes
 - 💞️ I’m looking to collaborate on exciting Opensource projects. 
 - 📫 How to reach me intuitiveware@gmail.com
 
