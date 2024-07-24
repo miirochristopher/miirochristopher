@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @miirochristopher
-- 💞️  I love to collaborate on exciting opensource projects.
+- 💞️  I love to collaborate on opensource projects.
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
