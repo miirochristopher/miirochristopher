@@ -12,4 +12,4 @@ jobs:
       - name: Badges - Readme
         uses: miirochristopher/badge-readme@main
         with:       
-          CREDLY_USER: miirochristopher # optional, but default will use the same from github
+          CREDLY_USER: christopher-miiro # optional, but default will use the same from github
