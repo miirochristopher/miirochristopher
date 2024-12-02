@@ -1,4 +1,3 @@
-- 👋  Hi, I’m @miirochristopher
 
 # 💫 About Me:
 An open-minded computer scientist and intuitive software engineer that loves Open-source software. 
