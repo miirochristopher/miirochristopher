@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-An open-minded computer scientist and intuitive software engineer that loves Open-source software. 
+A computer scientist and intuitive software engineer that loves Open Source software. 
 
 
 ## 🌐 Socials:
