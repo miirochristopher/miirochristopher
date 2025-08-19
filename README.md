@@ -18,7 +18,7 @@ A computer scientist and intuitive software engineer that loves Open Source soft
 [![](https://visitcount.itsvg.in/api?id=miirochristopher&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can Donate :)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/miirochristopher)]
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/miirochristopher)
 [![An image of @miirochristopher's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miirochristopher)]
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
